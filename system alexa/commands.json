@@ -1,0 +1,106 @@
+{
+    "commands": [
+        {
+            "command": "turn on lights",
+            "action": "TURN_ON_LIGHTS"
+        },
+        {
+            "command": "turn off lights",
+            "action": "TURN_OFF_LIGHTS"
+        },
+        {
+            "command": "input 1",
+            "action": "input_1"
+        },
+        {
+            "command": "input 2",
+            "action": "input_2"
+        },
+        {
+            "command": "input 3",
+            "action": "input_3"
+        },
+        {
+            "command": "input 3",
+            "action": "input_3"
+        },
+        {
+            "command": "camera left",
+            "action": "CAMERA_LEFT_TURN"
+        },
+        {
+            "command": "camera right",
+            "action": "CAMERA_RIGHT_TURN"
+        },
+        {
+            "command": "camera up",
+            "action": "CAMERA_TILT_UP"
+        },
+        {
+            "command": "camera down",
+            "action": "CAMERA_TILT_DOWN"
+        },
+        {
+            "command": "position 1",
+            "action": "pos_1"
+        },
+        {
+            "command": "position 2",
+            "action": "pos_2"
+        },
+        {
+            "command": "position 3",
+            "action": "pos_3"
+        },
+        {
+            "command": "position 4",
+            "action": "pos_4"
+        },
+        {
+            "command": "position 5",
+            "action": "pos_5"
+        },
+        {
+            "command": "position 6",
+            "action": "pos_6"
+        },
+        {
+            "command": "input one",
+            "action": "input_1"
+        },
+        {
+            "command": "second input",
+            "action": "input_2"
+        },
+        {
+            "command": "input three",
+            "action": "input_3"
+        },
+        {
+            "command": "position one",
+            "action": "pos_1"
+        },
+        {
+            "command": "second position",
+            "action": "pos_2"
+        },
+        {
+            "command": "position 2 ",
+            "action": "pos_2"
+        },
+        {
+            "command": "position three",
+            "action": "pos_3"
+        },
+        {
+            "command": "position four",
+            "action": "pos_4"
+        },
+        {
+            "command": "input two",
+            "action": "input_2"
+        }
+
+
+    ]
+}
